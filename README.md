@@ -45,6 +45,7 @@ The simulation can be found in [mcs notebook](./simulations/mcs_cyber_risks.ipyn
 
 ### TOPSIS 
 <img title="Monte Carlo" alt="Alt text" src="./images/topsis_res.png">
+
 To investigate the risks of the digitalisation of the supply chain, we used two methods, the Technique for Order of Preference by 
 Similarity to Ideal Solution (TOPSIS) [TOPSIS notebook](./simulations/topsis-implementation.ipynb).
 
