@@ -3,6 +3,12 @@ This repository contains all the artefacts that were produced during the module 
 
 
 # Getting Started 🚀
+### Artefacts for units
+During the module there were many activities that were carried out to document all the results a folder named [units](./units)
+is present, where all the activities and their outputs have been stored. Also, the risk analysis done for pampered pets are 
+inside this folder:
+* [Qualitative Analysis Report](./units/unit_6/assignment1)
+* [Quantitative Analysis Report](./units/unit_11/executive_summary)
 
 ### Prerequisites for running the Notebooks for the simulations
 * <a href=https://www.python.org/downloads/release/python-370/> Python 3.7 or Greater</a>
