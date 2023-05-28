@@ -1,0 +1,124 @@
+<mxfile host="app.diagrams.net" modified="2023-03-29T14:44:42.943Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="5vM9HRnT6pVGam5w9sJt" version="21.1.1" type="device">
+  <diagram name="Page-1" id="xO2jwSx37PI4ry3nkle4">
+    <mxGraphModel dx="2474" dy="989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-88" y="259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-1" target="4QNplmt7RZhBVdSuMz5c-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-1" value="International Airport" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="114" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-3" target="4QNplmt7RZhBVdSuMz5c-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-89" y="393" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-3" value="Gain privileged access&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="256" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-6" value="Get access to confidential data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="379" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="263" y="405.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="426" y="403.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-8" value="Airport is brought to halt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="261" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-202" y="560.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="14" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-11" value="Go to restricted areas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-13" value="Explosives are setup in the airport buildings" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-258" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-15" value="Plant spying devices" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-48" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-8" target="4QNplmt7RZhBVdSuMz5c-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-8" target="4QNplmt7RZhBVdSuMz5c-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-19" value="DDoS attack halts the airport system" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="53" y="407" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-21" target="4QNplmt7RZhBVdSuMz5c-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-21" value="Air traffic control system required for takeoff and landing are compromised" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="203" y="404" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-23" value="Systems for Immigration is compromised" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="404" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-25" target="4QNplmt7RZhBVdSuMz5c-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="803" y="372.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-25" value="Insider attack" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="256" width="120" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-25" target="4QNplmt7RZhBVdSuMz5c-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4QNplmt7RZhBVdSuMz5c-27" target="4QNplmt7RZhBVdSuMz5c-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-27" value="Valuable information is leaked" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="373" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-30" value="Security protocols are skipped for hijacking the airport" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="373" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-31" value="Loss of money because of reputational damage" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="546" y="533" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4QNplmt7RZhBVdSuMz5c-33" value="Planes cannot land or fly" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="203" y="533" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

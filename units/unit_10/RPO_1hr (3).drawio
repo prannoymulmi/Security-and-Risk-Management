@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" modified="2023-05-12T16:52:19.993Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3RK3IDjLWn886fRtPQjx" version="21.1.6" type="device">
+  <diagram name="Page-1" id="fM3O9tvJHzL3D0n6SWtY">
+    <mxGraphModel dx="2433" dy="1231" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="47" y="174" width="358" height="413" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NCRa2jW1PJODs4NJjAiK-59" target="NCRa2jW1PJODs4NJjAiK-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-59" value="Databases" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="196.5" y="497" width="67" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-60" value="Ecommerce Website" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107" y="271" width="123" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-61" value="Real-time analytics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="268" width="114" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-62" value="Inventory Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="367" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-63" value="Region 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="81" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-521" y="176" width="358" height="413" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NCRa2jW1PJODs4NJjAiK-68" target="NCRa2jW1PJODs4NJjAiK-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-66" value="Data is backed up every hour in another region" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NCRa2jW1PJODs4NJjAiK-65">
+          <mxGeometry x="-0.0328" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NCRa2jW1PJODs4NJjAiK-68" target="NCRa2jW1PJODs4NJjAiK-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-68" value="Databases" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-371.5" y="499" width="67" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-69" value="Ecommerce Website" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-461" y="273" width="123" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-70" value="Real-time analytics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-303" y="270" width="114" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-71" value="Inventory Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-398" y="369" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-72" value="Region 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-487" y="192" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NCRa2jW1PJODs4NJjAiK-77" target="NCRa2jW1PJODs4NJjAiK-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-74" value="Primary Region" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NCRa2jW1PJODs4NJjAiK-73">
+          <mxGeometry x="-0.0074" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NCRa2jW1PJODs4NJjAiK-77" target="NCRa2jW1PJODs4NJjAiK-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-76" value="Failover Region" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NCRa2jW1PJODs4NJjAiK-75">
+          <mxGeometry x="-0.2414" relative="1" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-77" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="-108" y="98" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NCRa2jW1PJODs4NJjAiK-80" target="NCRa2jW1PJODs4NJjAiK-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NCRa2jW1PJODs4NJjAiK-80" target="NCRa2jW1PJODs4NJjAiK-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-80" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-83" y="-13" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-81" value="Manual switch to the failover region" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="-36" y="23" width="279" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-82" value="Backup" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-483" y="499" width="67" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-83" value="Backup" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="86" y="497" width="67" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-84" value="The required services are not must be deployed and run (Pilot Light, AWS)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="201" y="190" width="279" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NCRa2jW1PJODs4NJjAiK-85" value="The database is running with data" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="186" y="451" width="193" height="59" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
